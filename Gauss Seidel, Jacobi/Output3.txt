@@ -1,0 +1,64 @@
+Coeffecients of equation 1 - 
+2
+1
+0
+Coeffecients of equation 2 - 
+1
+2
+1
+Coeffecients of equation 3 - 
+0
+1
+1
+Initial guess - 0 0 0 
+Output of iteration 1: 0.75 0.9375 4.59375 
+Output of iteration 2: -0.328125 -2.16797 6.95508 
+Output of iteration 3: 2.54004 -4.53735 9.32849 
+Output of iteration 4: 2.883 -5.38994 9.42066 
+Output of iteration 5: 3.35096 -5.38374 9.36529 
+Output of iteration 6: 3.11233 -5.16634 9.06687 
+Output of iteration 7: 3.06859 -5.01842 8.9942 
+Output of iteration 8: 2.97952 -4.97108 8.95952 
+Output of iteration 9: 2.98855 -4.97551 8.98351 
+Output of iteration 10: 2.98736 -4.9904 8.99384 
+Output of iteration 11: 2.99912 -4.99952 9.00236 
+Output of iteration 12: 3.00008 -5.00207 9.00193 
+Output of iteration 13: 3.00151 -5.00154 9.00135 
+Output of iteration 14: 3.0004 -5.00054 9.00014 
+Output of iteration 15: 3.00021 -4.99999 8.99991 
+Output of iteration 16: 2.99989 -4.99986 8.99983 
+Output of iteration 17: 2.99995 -4.9999 8.99994 
+Output of iteration 18: 2.99995 -4.99997 8.99998 
+Output of iteration 19: 3 -5 9.00001 
+Output of iteration 20: 3 -5.00001 9.00001 
+Output of iteration 21: 3.00001 -5.00001 9 
+Output of iteration 22: 3 -5 9 
+Output of iteration 23: 3 -5 9 
+Output of iteration 24: 3 -5 9 
+Output of iteration 25: 3 -5 9 
+Error after each iteration- 
+4.74805
+4.04749
+4.41287
+0.923588
+0.471266
+0.439614
+0.170509
+0.106663
+0.0260115
+0.0181558
+0.017148
+0.00276144
+0.00162946
+0.00192463
+0.000631831
+0.000355786
+0.000138625
+7.82536e-05
+6.39855e-05
+8.2625e-06
+6.27634e-06
+7.67767e-06
+1.90735e-06
+1.43051e-06
+7.15256e-07

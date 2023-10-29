@@ -1,0 +1,120 @@
+Coeffecients of equation 1 - 
+2
+1
+0
+Coeffecients of equation 2 - 
+1
+2
+1
+Coeffecients of equation 3 - 
+0
+1
+1
+Initial guess - 0 0 0 
+Output of iteration 1: 0.5 0.75 3.25 
+Output of iteration 2: 0.125 -0.6875 4.6875 
+Output of iteration 3: 0.84375 -1.76562 5.76562 
+Output of iteration 4: 1.38281 -2.57422 6.57422 
+Output of iteration 5: 1.78711 -3.18066 7.18066 
+Output of iteration 6: 2.09033 -3.6355 7.6355 
+Output of iteration 7: 2.31775 -3.97662 7.97662 
+Output of iteration 8: 2.48831 -4.23247 8.23247 
+Output of iteration 9: 2.61623 -4.42435 8.42435 
+Output of iteration 10: 2.71218 -4.56826 8.56826 
+Output of iteration 11: 2.78413 -4.6762 8.6762 
+Output of iteration 12: 2.8381 -4.75715 8.75715 
+Output of iteration 13: 2.87857 -4.81786 8.81786 
+Output of iteration 14: 2.90893 -4.8634 8.8634 
+Output of iteration 15: 2.9317 -4.89755 8.89755 
+Output of iteration 16: 2.94877 -4.92316 8.92316 
+Output of iteration 17: 2.96158 -4.94237 8.94237 
+Output of iteration 18: 2.97119 -4.95678 8.95678 
+Output of iteration 19: 2.97839 -4.96758 8.96758 
+Output of iteration 20: 2.98379 -4.97569 8.97569 
+Output of iteration 21: 2.98784 -4.98177 8.98177 
+Output of iteration 22: 2.99088 -4.98632 8.98632 
+Output of iteration 23: 2.99316 -4.98974 8.98974 
+Output of iteration 24: 2.99487 -4.99231 8.99231 
+Output of iteration 25: 2.99615 -4.99423 8.99423 
+Output of iteration 26: 2.99712 -4.99567 8.99567 
+Output of iteration 27: 2.99784 -4.99675 8.99675 
+Output of iteration 28: 2.99838 -4.99757 8.99757 
+Output of iteration 29: 2.99878 -4.99817 8.99817 
+Output of iteration 30: 2.99909 -4.99863 8.99863 
+Output of iteration 31: 2.99932 -4.99897 8.99897 
+Output of iteration 32: 2.99949 -4.99923 8.99923 
+Output of iteration 33: 2.99961 -4.99942 8.99942 
+Output of iteration 34: 2.99971 -4.99957 8.99957 
+Output of iteration 35: 2.99978 -4.99968 8.99968 
+Output of iteration 36: 2.99984 -4.99976 8.99976 
+Output of iteration 37: 2.99988 -4.99982 8.99982 
+Output of iteration 38: 2.99991 -4.99986 8.99986 
+Output of iteration 39: 2.99993 -4.9999 8.9999 
+Output of iteration 40: 2.99995 -4.99992 8.99992 
+Output of iteration 41: 2.99996 -4.99994 8.99994 
+Output of iteration 42: 2.99997 -4.99996 8.99996 
+Output of iteration 43: 2.99998 -4.99997 8.99997 
+Output of iteration 44: 2.99998 -4.99998 8.99998 
+Output of iteration 45: 2.99999 -4.99998 8.99998 
+Output of iteration 46: 2.99999 -4.99999 8.99999 
+Output of iteration 47: 2.99999 -4.99999 8.99999 
+Output of iteration 48: 2.99999 -4.99999 8.99999 
+Output of iteration 49: 3 -4.99999 8.99999 
+Output of iteration 50: 3 -5 9 
+Output of iteration 51: 3 -5 9 
+Output of iteration 52: 3 -5 9 
+Output of iteration 53: 3 -5 9 
+Error after each iteration- 
+3.37268
+2.06723
+1.68562
+1.26421
+0.94816
+0.71112
+0.53334
+0.400005
+0.300004
+0.225003
+0.168752
+0.126564
+0.0949228
+0.0711927
+0.0533943
+0.040046
+0.0300344
+0.0225254
+0.0168939
+0.0126705
+0.00950337
+0.00712752
+0.00534549
+0.00400935
+0.00300645
+0.00225456
+0.00169084
+0.00126844
+0.000951252
+0.000714074
+0.000535352
+0.000401158
+0.000301123
+0.000226198
+0.000169877
+0.00012718
+9.54607e-05
+7.15701e-05
+5.36775e-05
+4.02582e-05
+2.9889e-05
+2.23656e-05
+1.64699e-05
+1.23057e-05
+9.05049e-06
+7.02425e-06
+5.80587e-06
+4.47313e-06
+3.05325e-06
+2.56785e-06
+1.86211e-06
+1.52662e-06
+6.7435e-07
